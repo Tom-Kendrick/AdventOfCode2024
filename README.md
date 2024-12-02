@@ -2,11 +2,6 @@
 
 Welcome to my solutions for [Advent of Code 2024](https://adventofcode.com/2024)!
 
-## Table of Contents
-- [About](#about)
-- [Solutions](#solutions)
-- [Languages Used](#languages-used)
-
 ## About
 
 This repository contains my solutions to the 2024 edition, and I'll be solving them in Python, tracking my progress throughout the month.
