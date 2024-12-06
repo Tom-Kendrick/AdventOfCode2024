@@ -1,7 +1,7 @@
 #Parse Input
 
 left, right = [],[]
-f = open("input.txt", "r")
+f = open("Day 1/input.txt", "r")
 for i in f.readlines():
     item = i.split('   ')
     left.append(int(item[0]))

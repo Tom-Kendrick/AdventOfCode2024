@@ -2,7 +2,7 @@ import re
 
 #Parse Input
 
-with open("DayThree/input.txt", "r") as f:
+with open("Day 3/input.txt", "r") as f:
     corrupted = f.read()
 
 #Part 1

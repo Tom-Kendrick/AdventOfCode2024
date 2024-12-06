@@ -1,6 +1,6 @@
 #Parsing Input
 
-with open("DayTwo/input.txt", "r") as f:
+with open("Day 2/input.txt", "r") as f:
     levels = [[int(num.strip()) for num in i.split(' ')] for i in f.readlines()]
 
 
